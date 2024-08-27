@@ -1,5 +1,9 @@
 # 👋 Hi, I’m @AmitShArmA
 
+# 👀 About Me
+   I'm a passionate Data Analytics Specialist with a strong background in Power BI, SQL, and Excel. I have a knack for turning raw data into actionable insights and am always eager to learn more about the latest 
+   trends and tools in data analytics.
+
 # 👀 I’m interested in:
 - Data Analytics and Business Intelligence
 - Exploring the power of SQL, Power BI, and Excel
